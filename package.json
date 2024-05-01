@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/guiorlando1/tabuadaPPI/issues"
   },
-  "homepage": "https://github.com/guiorlando1/tabuadaPPI#readme"
+  "homepage": "https://github.com/guiorlando1/tabuadaPPI#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
