@@ -1,0 +1,25 @@
+{
+  "name": "tabuadappi",
+  "version": "1.0.0",
+  "description": "criando uma tabuada PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiorlando1/tabuadaPPI.git"
+  },
+  "keywords": [
+    "node",
+    "http"
+  ],
+  "author": "Guilherme Orlando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiorlando1/tabuadaPPI/issues"
+  },
+  "homepage": "https://github.com/guiorlando1/tabuadaPPI#readme"
+}
